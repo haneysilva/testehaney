@@ -1,0 +1,3 @@
+INDEX VERSION 1.126+C:\Users\Haney\Documents\PROJETOS\SEMANA\local\.metadata\.plugins\org.eclipse.jdt.core
+3543110963.index
+3171793109.index
